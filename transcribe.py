@@ -5,7 +5,7 @@ from faster_whisper import WhisperModel
 import subprocess
 
 # 処理対象のYouTube動画のIDを指定
-YOUTUBE_ID = "KFKCeVxGdRk"  # Youtube ID
+YOUTUBE_ID = "OLqgs4fJl7Y"  # Youtube ID
 
 # ダウンロードする音声ファイルの名前をYouTube IDを使って設定
 AUDIO_FILE_NAME = f"{YOUTUBE_ID}.mp3"
